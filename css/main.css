@@ -4,8 +4,7 @@ body {
     font-style: normal;
     font-size: 1.5em;
     background-color: #ffffff;
-  /*  background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
-    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+
 }
 .line {
     border-top: 3px solid #000;
