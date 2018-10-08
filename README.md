@@ -51,7 +51,7 @@ IF YOU'RE A DC RESIDENT YOU CAN USE YOUR LIBRARY CARD AND TAKE THEORY LESSONS ON
 **She Shreds Magazine.**
 She Shreds Magazine is the world’s only print + web publication dedicated to women guitarists and bassists. They have a ton of great tutorials, interviews with musicians, and reviews of gear. They also accept pitches, so if you enjoy writing, reach out to them! Check them out: http://sheshredsmag.com/
 
-# The Youtubes
+# The Youtubes 
 
 **Justin**
 So, the person who is considered the default guru is Justin, from Justin Guitar. He has decent lessons from start to finish: http://www.justinguitar.com/. I like some of his stuff, but find the acoustic guitar a bit tedious to listen to. However, he has great explanations for more challenging concepts! 
@@ -62,6 +62,7 @@ Here's his beginner courses all in order: https://www.youtube.com/watch?v=m1PRD0
 Mahalo was a website that's now defunct but used to have pretty rad guitar tutorials. They cover a lot of pop artists, but there's some funky bit in there too.
 
 Find all their tutorials here: https://www.youtube.com/playlist?list=PL5CFB82966A2B6CDB
+
 
 **Nerdy more advanced stuff**
 Signals audio has a channel full of ridiculous though informative videos, which cover how to play things in a spooky fashion and how to tell what intervals you're hearing. https://www.youtube.com/channel/UCRDDHLvQb8HjE2r7_ZuNtWA/videos
